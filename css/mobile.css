@@ -10,6 +10,8 @@
   header h1 {
     position: absolute;
     top: 25vh;
+    left: 1rem;
+    right: 1rem;
   }
 
   header .baby_bat_codes {
