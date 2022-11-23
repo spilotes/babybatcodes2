@@ -10,7 +10,7 @@
   header h1 {
     position: absolute;
     top: 25vh;
-    width: 75%;
+    width: 78%;
   }
 
   header .baby_bat_codes {
@@ -19,6 +19,6 @@
 
   main .support {
     top: 48vh;
-    width: 75%;
+    width: 78%;
   }
 }
