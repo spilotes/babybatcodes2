@@ -1,6 +1,6 @@
 @media (max-width: 414px) {
   header {
-    height: 40vh;
+    height: 42vh;
   }
 
   header .logo1 {
@@ -9,7 +9,7 @@
 
   header h1 {
     position: absolute;
-    top: 25vh;
+    top: 21vh;
     width: 78%;
   }
 
