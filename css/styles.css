@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #c9d1d9;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+header {
+  width: 100%;
+  height: 50vh;
+  background-color: #000000;
+  box-shadow: 1px 0 0 1px #262626;
+}
+
+header .logo1 {
+  position: absolute;
+  top: 7.5vh;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+header .logo {
+  width: 8rem;
+  background: #121212;
+  border: 3.5px solid #c9d1d9;
+  border-radius: 50%;
+}
+
+header h1 {
+  position: absolute;
+  top: 31vh;
+  left: 50%;
+  transform: translate(-50%);
+  font-family: Roboto;
+  font-size: 1.8rem;
+  letter-spacing: 0.5rem;
+}
+
+header .baby_bat_codes {
+  position: absolute;
+  top: 38vh;
+  left: 50%;
+  transform: translate(-50%);
+  transition: all 300ms ease-in-out;
+  text-decoration: none;
+  font-family: Roboto;
+}
+
+header .baby_bat_codes:hover {
+  text-decoration: underline;
+}
+
+/* body */
+
+body {
+  width: 100vw;
+  background: #121212;
+  overflow-x: hidden;
+}
+
+main {
+  height: 100vh;
+  width: 100vw;
+}
+
+main .support {
+  position: absolute;
+  font-family: Roboto;
+  font-size: 1rem;
+  top: 58vh;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 15px;
+  background: #6b727c;
+  transition: all 300ms ease-in-out;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #c9d1d9;
+}
