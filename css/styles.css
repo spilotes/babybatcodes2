@@ -74,6 +74,12 @@ main .support {
   transform: translate(-50%);
 }
 
+main .btn {
+  background: #ccc;
+  width: 10rem;
+  height: 3rem;
+}
+
 ::-webkit-scrollbar {
   width: 0.5rem;
 }
