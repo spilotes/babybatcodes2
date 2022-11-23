@@ -10,6 +10,7 @@
   header h1 {
     top: 25vh;
     width: 78%;
+    letter-spacing: 0.3rem;
   }
 
   header .baby_bat_codes {
