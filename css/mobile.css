@@ -1,2 +1,19 @@
 @media (max-width: 414px) {
+  header {
+    height: 40vh;
+  }
+
+  header .logo1 {
+    top: 6vh;
+  }
+
+  header h1 {
+    position: absolute;
+    top: 28vh;
+    width: 100%;
+  }
+
+  header .baby_bat_codes {
+    top: 32vh;
+  }
 }
