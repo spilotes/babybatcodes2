@@ -76,9 +76,9 @@ main .support {
 
 main .btn {
   position: absolute;
-  background: #c9d1d9;
+  background-image: linear-gradient(left to right #c9d1d9 80%, #6b727c 20%);
   width: 14rem;
-  height: 2.8rem;
+  height: 3rem;
   top: 56vh;
   left: 50%;
   transform: translate(-50%);
