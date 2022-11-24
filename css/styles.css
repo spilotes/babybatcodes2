@@ -87,8 +87,16 @@ main .btn {
   transition: all 300ms easy-in-out;
 }
 
-  main .btn p {
+  main .btn .coffee {
+  position: absolute;
+  left: 2vw;
+  font-size: 1.5rem;
+} 
+
+  main .btn .buyme {
+  position: absolute;
   color: #000;
+  
 }
 
 ::-webkit-scrollbar {
