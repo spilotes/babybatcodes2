@@ -87,6 +87,10 @@ main .btn {
   transition: all 300ms easy-in-out;
 }
 
+  main .btn p {
+  color: #000;
+}
+
 ::-webkit-scrollbar {
   width: 0.5rem;
 }
