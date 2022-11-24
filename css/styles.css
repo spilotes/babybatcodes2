@@ -96,9 +96,10 @@ main .btn {
 
   main .btn .buyme {
   position: absolute;
+  font-weight: bold;
   color: #000;
-  top; 6vh;
-  left: 9vw;
+  top: 3vh;
+  left: 11vw;
   
 }
 
