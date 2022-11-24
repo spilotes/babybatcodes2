@@ -113,6 +113,7 @@ main .btn:hover {
   justify-content: center;
   width: 2rem;
   cursor: pointer;
+  top: 30px;
 }
 
   main .square {
@@ -121,7 +122,7 @@ main .btn:hover {
   height: 2rem;
   background: #c9d1d9;
   position: absolute;
-  top: 30px;
+  top: 1vh;
 }
 
   main .circle:after,
@@ -132,14 +133,6 @@ main .btn:hover {
   height: 55px;
   border-radius: 50%;
   background: #c9d1d9;
-}
-  main .circle:after {
-  left: 5px;
-  top: 6px;
-}
-  main .circle:before {
-  right: 5px;
-  top: 6px;
 }
 
   main .btn .number {
