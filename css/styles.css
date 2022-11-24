@@ -127,11 +127,11 @@ main .btn:hover {
 }
 
   main .btn .heart:before {
-    top: -1rem;
+    top: -1.2rem;
 }
 
   main .btn .heart:after {
-    left: 0.5rem;
+    left: 1.2rem;
 }
 
   main .btn .number {
