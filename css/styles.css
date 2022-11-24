@@ -89,6 +89,7 @@ main .btn {
 
   main .btn .coffee {
   position: absolute;
+  top: 0.5vh;
   left: 1vw;
   font-size: 2rem;
 } 
@@ -96,6 +97,8 @@ main .btn {
   main .btn .buyme {
   position: absolute;
   color: #000;
+  top; 1vh;
+  left: 3vw;
   
 }
 
