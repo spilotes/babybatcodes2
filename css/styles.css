@@ -107,6 +107,42 @@ main .btn:hover {
   left: 11vw;
 }
 
+  main .content-coracao {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  width: 100px;
+  cursor: pointer;
+  margin: 300px auto;
+}
+
+  main .square {
+  transform: rotate(45deg);
+  width: 50px;
+  height: 50px;
+  background: #e71940;
+  position: absolute;
+  top: 30px;
+}
+
+  main .circle:after,
+  .circle:before {
+  content: "";
+  position: absolute;
+  width: 54px;
+  height: 55px;
+  border-radius: 50%;
+  background: #e71940;
+}
+  main .circle:after {
+  left: 5px;
+  top: 6px;
+}
+  main .circle:before {
+  right: 5px;
+  top: 6px;
+}
+
   main .btn .number {
   position: absolute;
   font-weight: bold;
