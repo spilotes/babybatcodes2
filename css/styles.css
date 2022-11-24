@@ -82,9 +82,12 @@ main .btn {
   top: 56vh;
   left: 50%;
   transform: translate(-50%);
-  font-color: #000;
   border-radius: 0.6rem;
   transition: all 300ms easy-in-out;
+}
+
+main .buyme {
+  font-color: #000;
 }
 
 ::-webkit-scrollbar {
