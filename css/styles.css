@@ -108,7 +108,7 @@ main .btn:hover {
 }
 
  main .btn .heart {
-    margin-right: 0.8rem;
+    margin-left: 10vh;
     background-color: red;
     height: 0.8rem;
     transform: rotate(-45deg);
