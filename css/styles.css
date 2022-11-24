@@ -108,11 +108,11 @@ main .btn:hover {
 }
 
  main .btn .heart {
-    margin: 200px;
+    margin: 100px;
     background-color: red;
-    height: 200px;
+    height: 100px;
     transform: rotate(-45deg);
-    width: 200px;
+    width: 100px;
     position: relative;
 }
 
@@ -121,9 +121,9 @@ main .btn:hover {
     content: "";
     background-color: red;
     border-radius: 50%;
-    height: 200px;
+    height: 100px;
     position: absolute;
-    width: 200px;
+    width: 100px;
 }
 
   main .btn .heart:before {
