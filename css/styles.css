@@ -111,7 +111,7 @@ main .btn:hover {
   position: absolute;
   font-weight: bold;
   top: 3vh;
-  right: 3vw;
+  right: 3.5vw;
 }
 
 ::-webkit-scrollbar {
