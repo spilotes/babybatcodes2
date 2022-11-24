@@ -105,7 +105,12 @@ main .btn:hover {
   color: #000;
   top: 2vh;
   left: 11vw;
-  
+}
+
+  main .btn .number {
+  position: absolute;
+  top: 4vh;
+  right: 1vw;
 }
 
 ::-webkit-scrollbar {
