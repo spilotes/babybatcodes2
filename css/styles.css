@@ -108,9 +108,9 @@ main .btn:hover {
 }
 
  main .btn .heart {
-    margin-left: 50vw;
-    margin-top: 1.4vh;
-    background-color: red;
+    margin-left: 46vw;
+    margin-top: 1.2vh;
+    background-color: #c9d1d9;
     height: 0.8rem;
     transform: rotate(-45deg);
     width: 0.8rem;
@@ -120,7 +120,7 @@ main .btn:hover {
   main .btn .heart:before,
 .heart:after {
     content: "";
-    background-color: red;
+    background-color: #c9d1d9;
     border-radius: 50%;
     height: 0.8rem;
     position: absolute;
