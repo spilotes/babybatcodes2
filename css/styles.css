@@ -109,8 +109,9 @@ main .btn:hover {
 
   main .btn .number {
   position: absolute;
-  top: 4vh;
-  right: 1vw;
+  font-weight: bold;
+  top: 3vh;
+  right: 3vw;
 }
 
 ::-webkit-scrollbar {
