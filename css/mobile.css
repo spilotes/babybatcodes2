@@ -18,7 +18,7 @@
   }
 
   main .support {
-    top: 48vh;
+    top: 46vh;
     width: 70%;
   }
 
@@ -28,7 +28,7 @@
     width: 14rem;
     height: 3rem;
     color: #000;
-    top: 56vh;
+    top: 54vh;
     left: 50%;
     transform: translate(-50%);
     border-radius: 0.6rem;
@@ -97,7 +97,7 @@ main .arquivo-estudos {
   box-shadow: 2px 0 0 0 #c9d1d9 inset;
   width: 20rem;
   height: 8rem;
-  top: 68vh;
+  top: 66vh;
   left: 50%;
   transform: translate(-50%);
   border-radius: 0.3rem;
