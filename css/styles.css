@@ -143,6 +143,19 @@ main .btn .number {
   right: 1.2vw;
 }
 
+main .arquivo-estudos {
+  position: absolute;
+  background-color: #000000;
+  width: 24rem;
+  height: 8rem;
+  top: 15vh;
+  left: 50%;
+  transform: translate(-50%);
+  border-radius: 0.3rem;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
 ::-webkit-scrollbar {
   width: 0.5rem;
 }
