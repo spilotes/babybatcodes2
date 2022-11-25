@@ -108,7 +108,7 @@
   main .arquivo-estudos .linha-vertical {
     position: absolute;
     height: 100%;
-    border-left: 3px solid #c9d1d9;
+    border-left: 4px solid #c9d1d9;
     left: 0.7vw;
     border-radius: 1rem 0 0 1rem;
 }
