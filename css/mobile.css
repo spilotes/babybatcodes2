@@ -91,17 +91,24 @@
     right: 3.8vw;
   }
 
-main .arquivo-estudos {
-  position: absolute;
-  background-color: #000000;
-  box-shadow: 2px 0 0 0 #c9d1d9 inset;
-  width: 20rem;
-  height: 8rem;
-  top: 66vh;
-  left: 50%;
-  transform: translate(-50%);
-  border-radius: 0.3rem;
-  cursor: pointer;
-  transition: all 0.3s ease-in-out;
+  main .arquivo-estudos {
+    position: absolute;
+    background-color: #000000;
+    box-shadow: 2px 0 0 0 #c9d1d9 inset;
+    width: 20rem;
+    height: 8rem;
+    top: 66vh;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 0.3rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
 }
+ 
+  main .arquivo-estudos .road {
+    position: absolute;
+    top: 3vh;
+    left: 3vw;
+}
+
 }
