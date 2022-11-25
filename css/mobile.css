@@ -19,7 +19,74 @@
 
   main .support {
     top: 48vh;
+    width: 70%;
   }
 
+  main .btn {
+    position: absolute;
+    background-image: linear-gradient(to right, #c9d1d9 77.5%, #6b727c 23.5%);
+    width: 14rem;
+    height: 3rem;
+    color: #000;
+    top: 56vh;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 0.6rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
 
+  main .btn:hover {
+    filter: drop-shadow(0 0 0.8rem #c9d1d9);
+  }
+
+  main .btn .coffee {
+    position: absolute;
+    top: 0.5vh;
+    left: 1vw;
+    font-size: 2rem;
+  }
+
+  main .btn .buyme {
+    position: absolute;
+    font-weight: bold;
+    color: #000;
+    top: 2vh;
+    left: 11vw;
+  }
+
+  main .btn .heart {
+    margin-left: 47.5vw;
+    margin-top: 1.2vh;
+    background-color: #c9d1d9;
+    height: 0.6rem;
+    transform: rotate(-45deg);
+    width: 0.6rem;
+    position: relative;
+  }
+
+  main .btn .heart:before,
+  .heart:after {
+    content: "";
+    background-color: #c9d1d9;
+    border-radius: 50%;
+    height: 0.6rem;
+    position: absolute;
+    width: 0.6rem;
+  }
+
+  main .btn .heart:before {
+    top: -0.3rem;
+  }
+
+  main .btn .heart:after {
+    left: 0.3rem;
+  }
+
+  main .btn .number {
+    position: absolute;
+    font-weight: bold;
+    top: 3vh;
+    right: 3.5vw;
+  }
 }
