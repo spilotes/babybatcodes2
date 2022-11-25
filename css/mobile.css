@@ -94,7 +94,7 @@
 main .arquivo-estudos {
   position: absolute;
   background-color: #000000;
-border: 4px 0 0 0 solid #c9d1d9
+  border: 4px 0 0 0 solid #c9d1d9;
   width: 20rem;
   height: 8rem;
   top: 78vh;
