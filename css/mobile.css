@@ -104,6 +104,12 @@
     cursor: pointer;
     transition: all 0.3s ease-in-out;
 }
+
+  main .arquivo-estudos .linha-vertical {
+    position: absolute;
+    height: 100%;
+    border-left: 2px solid #c9d1d9;
+}
  
   main .arquivo-estudos .road {
     position: absolute;
