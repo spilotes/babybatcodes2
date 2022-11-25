@@ -93,7 +93,8 @@
 
 main .arquivo-estudos {
   position: absolute;
-  background-image: linear-gradient(to right, #c9d1d9 3%, #000000 97%);
+  background-color: #000000;
+border: 4px 0 0 0 solid #c9d1d9
   width: 20rem;
   height: 8rem;
   top: 78vh;
