@@ -57,7 +57,7 @@
 
   main .btn .heart {
     margin-left: 47.5vw;
-    margin-top: 1.2vh;
+    margin-top: 1.3vh;
     background-color: #c9d1d9;
     height: 0.6rem;
     transform: rotate(-45deg);
@@ -87,7 +87,7 @@
     position: absolute;
     font-size: 0.9rem;
     font-weight: bold;
-    top: 3.2vh;
+    top: 3.3vh;
     right: 3.8vw;
   }
 
