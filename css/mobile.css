@@ -243,7 +243,7 @@
   main .links-container {
     display: flex;
     top: 22.5vh;
-    left: -2vw;
+    left: -2.5vw;
     position: absolute;
   }
   
@@ -291,7 +291,8 @@
   
   main .links-container aside .github-name {
     position: absolute;
-    left: 5vw;
+    top: 1vh;
+    left: 8vw;
     color: #6b727c;
     font-size: 1.5rem;
   }
