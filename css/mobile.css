@@ -272,7 +272,7 @@
   main .links-container aside .codepen {
     color: #c9d1d9;
     position: absolute;
-    top: 14vh;
+    top: 12vh;
   }
   
   main .links-container aside .codepen:hover {
@@ -282,7 +282,7 @@
   main .links-container aside .spotify {
     color: #c9d1d9;
     position: absolute;
-    top: 32vh;
+    top: 30vh;
   }
   
   main .links-container aside .spotify:hover {
@@ -291,7 +291,7 @@
   
   main .links-container aside .github-name {
     position: absolute;
-    top: -1vh;
+    top: 1vh;
     left: 16vw;
     color: #6b727c;
     font-size: 1.5rem;
@@ -299,7 +299,7 @@
   
   main .links-container aside .g-user {
     position: absolute;
-    top: 2.5vh;
+    top: 4.5vh;
     left: 16vw;
     color: #6b727c;
     font-size: 1.1rem;
