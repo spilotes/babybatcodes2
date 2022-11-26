@@ -43,7 +43,7 @@
   main .btn .coffee {
     position: absolute;
     top: 1vh;
-    left: 1.5vw;
+    left: 2vw;
   }
 
   main .btn .buyme {
@@ -51,7 +51,7 @@
     font-weight: bold;
     color: #000;
     top: 2vh;
-    left: 11vw;
+    left: 10vw;
   }
 
   main .btn .heart {
@@ -120,4 +120,21 @@
     top: 3vh;
     left: 6vw;
   }
+  main .arquivo-estudos .stacks1 {
+   position: absolute;
+   white-space: nowrap;
+   font-size: 1.4rem;
+   top: 5.5vh;
+   left: 1.5vw;
+   color: #6b727c;
+}
+
+  main .arquivo-estudos .stacks2 {
+   position: absolute;
+   white-space: nowrap;
+   font-size: 1.3rem;
+   top: 10vh;
+   left: 1.5vw;
+   color: #000000;
+}
 }
