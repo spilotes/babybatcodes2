@@ -42,9 +42,8 @@
 
   main .btn .coffee {
     position: absolute;
-    top: 0.5vh;
-    left: 1vw;
-    font-size: 2rem;
+    top: 1vh;
+    left: 1.5vw;
   }
 
   main .btn .buyme {
