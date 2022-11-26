@@ -292,7 +292,7 @@
   main .links-container aside .github-name {
     position: absolute;
     top: 1vh;
-    left: 15vw;
+    left: 16vw;
     color: #6b727c;
     font-size: 1.5rem;
   }
@@ -300,23 +300,23 @@
   main .links-container aside .g-user {
     position: absolute;
     top: 4.5vh;
-    left: 15vw;
+    left: 16vw;
     color: #6b727c;
     font-size: 1.1rem;
   }
   
   main .links-container aside .codepen-name {
     position: absolute;
-    top: 16vh;
-    left: 5vw;
+    top: 16.5vh;
+    left: 16vw;
     color: #6b727c;
     font-size: 1.5rem;
   }
   
   main .links-container aside .c-user {
     position: absolute;
-    top: 21vh;
-    left: 5vw;
+    top: 20.5vh;
+    left: 16vw;
     color: #6b727c;
     font-size: 1.1rem;
   }
@@ -324,7 +324,7 @@
   main .links-container aside .spotify-name {
     position: absolute;
     top: 32.5vh;
-    left: 5vw;
+    left: 16vw;
     color: #6b727c;
     font-size: 1.5rem;
   }
@@ -332,8 +332,8 @@
   main .links-container aside .s-user {
     position: absolute;
     white-space: nowrap;
-    top: 37.5vh;
-    left: 5vw;
+    top: 37vh;
+    left: 16vw;
     color: #6b727c;
     font-size: 1.1rem;
   }
