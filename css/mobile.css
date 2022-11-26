@@ -124,8 +124,8 @@
    position: absolute;
    white-space: nowrap;
    font-size: 1.4rem;
-   top: 5.5vh;
-   left: 1.5vw;
+   top: 7vh;
+   left: 6vw;
    color: #6b727c;
 }
 
@@ -134,7 +134,7 @@
    white-space: nowrap;
    font-size: 1.3rem;
    top: 10vh;
-   left: 1.5vw;
+   left: 6vw;
    color: #000000;
 }
 }
