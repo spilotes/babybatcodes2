@@ -251,6 +251,7 @@ main .links-container aside .github-name {
   left: 5vw;
   color: #6b727c;
   font-size: 1.5rem;
+  letter-spacing: 0.1rem;
 }
 
 main .links-container aside .g-user {
@@ -267,6 +268,7 @@ main .links-container aside .codepen-name {
   left: 5vw;
   color: #6b727c;
   font-size: 1.5rem;
+  letter-spacing: 0.1rem;
 }
 
 main .links-container aside .c-user {
@@ -283,6 +285,7 @@ main .links-container aside .spotify-name {
   left: 5vw;
   color: #6b727c;
   font-size: 1.5rem;
+  letter-spacing: 0.1rem;
 }
 
 main .links-container aside .s-user {
