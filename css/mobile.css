@@ -9,7 +9,7 @@
 
   header h1 {
     top: 26vh;
-    width: 65%;
+    white-space: nowrap;
     letter-spacing: 0.3rem;
   }
 
