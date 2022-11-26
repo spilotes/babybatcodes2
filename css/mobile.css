@@ -323,7 +323,7 @@
   
   main .links-container aside .spotify-name {
     position: absolute;
-    top: 26.5vh;
+    top: 24.5vh;
     left: 16vw;
     color: #6b727c;
     font-size: 1.5rem;
@@ -332,7 +332,7 @@
   main .links-container aside .s-user {
     position: absolute;
     white-space: nowrap;
-    top: 31vh;
+    top: 29vh;
     left: 16vw;
     color: #6b727c;
     font-size: 1.1rem;
