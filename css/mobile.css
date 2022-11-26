@@ -93,8 +93,8 @@
 
   main .arquivo-estudos {
     position: absolute;
-    background-color: #000000;
-    box-shadow: 2px 0 0 0 #c9d1d9 inset;
+    background-color: #c9d1d9;
+    box-shadow: 2px 0 0 0 #6b727c inset;
     width: 20rem;
     height: 8rem;
     top: 66vh;
@@ -108,7 +108,7 @@
   main .arquivo-estudos .linha-vertical {
     position: absolute;
     height: 100%;
-    border-left: 4px solid #c9d1d9;
+    border-left: 4px solid #6b727c;
     left: 0.5vw;
     border-radius: 1rem 0 0 1rem;
 }
