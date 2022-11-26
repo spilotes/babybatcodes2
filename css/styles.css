@@ -33,8 +33,7 @@ header h1 {
   left: 50%;
   transform: translate(-50%);
   font-family: 'Nanum Pen Script', cursive;
-  font-size: 1.8rem;
-  font-weigth: 800;
+  font-size: 2rem;
   letter-spacing: 0.5rem;
 }
 
