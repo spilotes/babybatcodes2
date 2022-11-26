@@ -115,9 +115,9 @@
  
   main .arquivo-estudos .road {
     position: absolute;
+    font-size: 1.1rem;
     white-space: nowrap;
     top: 3vh;
     left: 5vw;
-    width: 70%;
 }
 }
