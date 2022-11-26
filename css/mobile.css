@@ -17,6 +17,10 @@
     top: 32vh;
   }
 
+  main {
+   height:100vh;
+  }
+
   main .support {
     top: 46vh;
     width: 70%;
