@@ -253,7 +253,7 @@
   
   }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 120vw) {
 
 main .btn .heart {
       margin-left: 49.5vw;
