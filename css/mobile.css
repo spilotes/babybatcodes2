@@ -291,16 +291,16 @@
   
   main .links-container aside .github-name {
     position: absolute;
-    top: 0.5vh;
-    left: 12vw;
+    top: 1vh;
+    left: 15vw;
     color: #6b727c;
     font-size: 1.5rem;
   }
   
   main .links-container aside .g-user {
     position: absolute;
-    top: 4vh;
-    left: 12vw;
+    top: 4.5vh;
+    left: 15vw;
     color: #6b727c;
     font-size: 1.1rem;
   }
