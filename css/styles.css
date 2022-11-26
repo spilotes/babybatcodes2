@@ -29,11 +29,11 @@ header .logo {
 
 header h1 {
   position: absolute;
-  top: 31vh;
+  top: 30vh;
   left: 50%;
   transform: translate(-50%);
   font-family: 'Nanum Pen Script', cursive;
-  font-size: 2.3rem;
+  font-size: 2.5rem;
   letter-spacing: 0.5rem;
 }
 
