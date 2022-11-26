@@ -260,6 +260,7 @@ main .btn .heart {
     }
 
 main .btn .number {
+      position: relative;
       right: 11vw;
     }
 }
