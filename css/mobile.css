@@ -243,7 +243,7 @@
   main .links-container {
     display: flex;
     top: 22.5vh;
-    left: 3vw;
+    left: 0;
     position: absolute;
   }
   
@@ -282,7 +282,7 @@
   main .links-container aside .spotify {
     color: #c9d1d9;
     position: absolute;
-    top: 30vh;
+    top: 26vh;
   }
   
   main .links-container aside .spotify:hover {
@@ -307,7 +307,7 @@
   
   main .links-container aside .codepen-name {
     position: absolute;
-    top: 14.5vh;
+    top: 12.5vh;
     left: 16vw;
     color: #6b727c;
     font-size: 1.5rem;
@@ -315,7 +315,7 @@
   
   main .links-container aside .c-user {
     position: absolute;
-    top: 18.5vh;
+    top: 16.5vh;
     left: 16vw;
     color: #6b727c;
     font-size: 1.1rem;
