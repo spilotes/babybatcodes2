@@ -150,8 +150,8 @@
 
   section .links-container {
     display: flex;
-    top: 22.5vh;
-    left: -3vw;
+    top: 70.5vh;
+    left: 10vw;
     position: absolute;
   }
 
