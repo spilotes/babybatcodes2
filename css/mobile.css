@@ -148,18 +148,18 @@
     color: #000000;
   }
 
-  main .links-container {
+  section .links-container {
     display: flex;
     top: 22.5vh;
     left: -3vw;
     position: absolute;
   }
 
-  main .links-container aside a {
+  section .links-container aside a {
     text-decoration: none;
   }
 
-  main .links-container aside i {
+  section .links-container aside i {
     width: 3.1rem;
     display: flex;
     cursor: pointer;
@@ -168,36 +168,36 @@
     transition: all 0.3s ease-in-out;
   }
 
-  main .links-container aside .github {
+  section .links-container aside .github {
     color: #c9d1d9;
     position: absolute;
   }
 
-  main .links-container aside .github:hover {
+  section .links-container aside .github:hover {
     transform: scale(1.03);
   }
 
-  main .links-container aside .codepen {
+  section .links-container aside .codepen {
     color: #c9d1d9;
     position: absolute;
     top: 12vh;
   }
 
-  main .links-container aside .codepen:hover {
+  section .links-container aside .codepen:hover {
     transform: scale(1.03);
   }
 
-  main .links-container aside .spotify {
+  section .links-container aside .spotify {
     color: #c9d1d9;
     position: absolute;
     top: 24vh;
   }
 
-  main .links-container aside .spotify:hover {
+  section .links-container aside .spotify:hover {
     transform: scale(1.03);
   }
 
-  main .links-container aside .github-name {
+  section .links-container aside .github-name {
     position: absolute;
     top: 1vh;
     left: 18vw;
@@ -205,7 +205,7 @@
     font-size: 1.5rem;
   }
 
-  main .links-container aside .g-user {
+  section .links-container aside .g-user {
     position: absolute;
     top: 4.5vh;
     left: 18vw;
@@ -213,7 +213,7 @@
     font-size: 1.1rem;
   }
 
-  main .links-container aside .codepen-name {
+  section .links-container aside .codepen-name {
     position: absolute;
     top: 12.5vh;
     left: 18vw;
@@ -221,7 +221,7 @@
     font-size: 1.5rem;
   }
 
-  main .links-container aside .c-user {
+  section .links-container aside .c-user {
     position: absolute;
     top: 16.5vh;
     left: 18vw;
@@ -229,7 +229,7 @@
     font-size: 1.1rem;
   }
 
-  main .links-container aside .spotify-name {
+  section .links-container aside .spotify-name {
     position: absolute;
     top: 24.5vh;
     left: 18vw;
@@ -237,7 +237,7 @@
     font-size: 1.5rem;
   }
 
-  main .links-container aside .s-user {
+  section .links-container aside .s-user {
     position: absolute;
     white-space: nowrap;
     top: 28.5vh;
@@ -246,7 +246,7 @@
     font-size: 1.1rem;
   }
 
-  main .links-container aside span:hover {
+  section .links-container aside span:hover {
     text-decoration: underline;
   }
 }
