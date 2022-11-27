@@ -32,7 +32,7 @@ header h1 {
   top: 30vh;
   left: 50%;
   transform: translate(-50%);
-  font-family: 'Nanum Pen Script', cursive;
+  font-family: "Nanum Pen Script", cursive;
   font-size: 2.5rem;
   letter-spacing: 0.5rem;
 }
@@ -196,18 +196,18 @@ main .arquivo-estudos .stacks2 {
   color: #000000;
 }
 
-main .links-container {
+section .links-container {
   display: flex;
-  top: 25.5vh;
-  left: -1vw;
+  top: 107.5vh;
+  left: 33.5vw;
   position: absolute;
 }
 
-main .links-container aside a {
+section .links-container aside a {
   text-decoration: none;
 }
 
-main .links-container aside i {
+section .links-container aside i {
   width: 3.1rem;
   display: flex;
   cursor: pointer;
@@ -216,36 +216,24 @@ main .links-container aside i {
   transition: all 0.3s ease-in-out;
 }
 
-main .links-container aside .github {
+section .links-container aside .github {
   color: #c9d1d9;
   position: absolute;
 }
 
-main .links-container aside .github:hover {
-  transform: scale(1.03);
-}
-
-main .links-container aside .codepen {
+section .links-container aside .codepen {
   color: #c9d1d9;
   position: absolute;
   top: 16vh;
 }
 
-main .links-container aside .codepen:hover {
-  transform: scale(1.03);
-}
-
-main .links-container aside .spotify {
+section .links-container aside .spotify {
   color: #c9d1d9;
   position: absolute;
   top: 32vh;
 }
 
-main .links-container aside .spotify:hover {
-  transform: scale(1.03);
-}
-
-main .links-container aside .github-name {
+section .links-container aside .github-name {
   position: absolute;
   left: 5vw;
   color: #6b727c;
@@ -253,7 +241,7 @@ main .links-container aside .github-name {
   letter-spacing: 0.1rem;
 }
 
-main .links-container aside .g-user {
+section .links-container aside .g-user {
   position: absolute;
   top: 5vh;
   left: 5vw;
@@ -261,7 +249,7 @@ main .links-container aside .g-user {
   font-size: 1.1rem;
 }
 
-main .links-container aside .codepen-name {
+section .links-container aside .codepen-name {
   position: absolute;
   top: 16vh;
   left: 5vw;
@@ -270,7 +258,7 @@ main .links-container aside .codepen-name {
   letter-spacing: 0.1rem;
 }
 
-main .links-container aside .c-user {
+section .links-container aside .c-user {
   position: absolute;
   top: 21vh;
   left: 5vw;
@@ -278,7 +266,7 @@ main .links-container aside .c-user {
   font-size: 1.1rem;
 }
 
-main .links-container aside .spotify-name {
+section .links-container aside .spotify-name {
   position: absolute;
   top: 32.5vh;
   left: 5vw;
@@ -287,7 +275,7 @@ main .links-container aside .spotify-name {
   letter-spacing: 0.1rem;
 }
 
-main .links-container aside .s-user {
+section .links-container aside .s-user {
   position: absolute;
   white-space: nowrap;
   top: 37.5vh;
@@ -296,7 +284,7 @@ main .links-container aside .s-user {
   font-size: 1.1rem;
 }
 
-main .links-container aside span:hover {
+section .links-container aside span:hover {
   text-decoration: underline;
 }
 
