@@ -25,10 +25,12 @@
   main .support {
     top: 46vh;
     width: 100%;
+
   }
 
   main .support p {
-   width: 90%;
+   width: 100%;
+   margin-left: 2rem;
 }
 
   main .btn {
