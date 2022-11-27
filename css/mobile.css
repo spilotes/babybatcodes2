@@ -26,6 +26,10 @@
     top: 46vh;
   }
 
+  main .support p {
+   width:100%
+}
+
   main .btn {
     position: absolute;
     background-image: linear-gradient(to right, #c9d1d9 77.5%, #6b727c 23.5%);
