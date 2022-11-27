@@ -28,10 +28,7 @@
   }
 
   main .support p {
-   position: absolute;
-   left: 50%;
-   ransform: translate(-50%);
-   width: 100%;
+   width: 90%;
 }
 
   main .btn {
