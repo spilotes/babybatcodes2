@@ -255,15 +255,18 @@
   section .links-container aside span:hover {
     text-decoration: underline;
   }
-}
 
-@media only screen and (min-width: 120vw) {
-  main .btn .heart {
-    margin-left: 40.5vw;
+  section .botton .clean-code {
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.1rem;
+    letter-spacing: 0.05rem;
+    top: 159vh;
+    left: 50%;
+    transform: translate(-50%);
   }
 
-  main .btn .number {
-    position: relative;
-    right: 11vw;
+  section .botton .clean-code:hover {
+    text-decoration: underline;
   }
 }
