@@ -37,7 +37,7 @@ header h1 {
   letter-spacing: 0.5rem;
 }
 
-header .baby_bat_codes {
+header .baby_bat_codes1 {
   position: absolute;
   top: 38vh;
   left: 50%;
@@ -47,7 +47,7 @@ header .baby_bat_codes {
   font-family: Roboto;
 }
 
-header .baby_bat_codes:hover {
+header .baby_bat_codes1:hover {
   text-decoration: underline;
 }
 
