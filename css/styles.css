@@ -55,7 +55,15 @@ header .baby_bat_codes1:hover {
 
 body {
   width: 100vw;
-  background: #121212;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: -webkit-gradient(
+    linear,
+    right top,
+    right bottom,
+    from(#121212),
+    to(#181818)
+  );
   overflow-x: hidden;
 }
 
