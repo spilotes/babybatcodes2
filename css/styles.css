@@ -35,6 +35,7 @@ header h1 {
   font-family: "Nanum Pen Script", cursive;
   font-size: 2.5rem;
   letter-spacing: 0.5rem;
+  font-weight: 300;
 }
 
 header .baby_bat_codes1 {
@@ -68,7 +69,7 @@ body {
 }
 
 main {
-  height: 117vh;
+  height: 114vh;
   width: 100vw;
 }
 
@@ -79,6 +80,7 @@ main .support {
   top: 58vh;
   left: 50%;
   transform: translate(-50%);
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 main .btn {
@@ -87,12 +89,13 @@ main .btn {
   width: 14rem;
   height: 3rem;
   color: #000;
-  top: 67vh;
+  top: 64vh;
   left: 50%;
   transform: translate(-50%);
   border-radius: 0.6rem;
   cursor: pointer;
   transition: all 0.3s ease-in-out;
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 main .btn:hover {
@@ -156,16 +159,17 @@ main .arquivo-estudos {
   box-shadow: 2px 0 0 0 #6b727c inset;
   width: 26.5rem;
   height: 8rem;
-  top: 82vh;
+  top: 78.4vh;
   left: 50%;
   transform: translate(-50%);
   border-radius: 0.3rem;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 main .arquivo-estudos:hover {
-  top: 81.5vh;
+  top: 77.9vh;
   filter: drop-shadow(0.2rem 0.2rem 0.2rem #6b727c);
 }
 
@@ -225,71 +229,82 @@ section .links-container aside i {
 }
 
 section .links-container aside .github {
+  top: -0.5vh;
   color: #c9d1d9;
   position: absolute;
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 section .links-container aside .codepen {
   color: #c9d1d9;
   position: absolute;
-  top: 16vh;
+  top: 15.5vh;
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 section .links-container aside .spotify {
   color: #c9d1d9;
   position: absolute;
-  top: 32vh;
+  top: 31.5vh;
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 section .links-container aside .github-name {
   position: absolute;
+  top: -0.5vh;
   left: 5vw;
   color: #6b727c;
   font-size: 1.5rem;
   letter-spacing: 0.1rem;
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 section .links-container aside .g-user {
   position: absolute;
-  top: 5vh;
+  top: 4.5vh;
   left: 5vw;
   color: #6b727c;
   font-size: 1.1rem;
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 section .links-container aside .codepen-name {
   position: absolute;
-  top: 16vh;
+  top: 15.5vh;
   left: 5vw;
   color: #6b727c;
   font-size: 1.5rem;
   letter-spacing: 0.1rem;
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 section .links-container aside .c-user {
   position: absolute;
-  top: 21vh;
+  top: 20.5vh;
   left: 5vw;
   color: #6b727c;
   font-size: 1.1rem;
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 section .links-container aside .spotify-name {
   position: absolute;
-  top: 32.5vh;
+  top: 32vh;
   left: 5vw;
   color: #6b727c;
   font-size: 1.5rem;
   letter-spacing: 0.1rem;
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 section .links-container aside .s-user {
   position: absolute;
   white-space: nowrap;
-  top: 37.5vh;
+  top: 37vh;
   left: 5vw;
   color: #6b727c;
   font-size: 1.1rem;
+  filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
 }
 
 section .links-container aside span:hover {
@@ -301,13 +316,15 @@ section .botton .clean-code {
   font-family: "Roboto", sans-serif;
   font-size: 1.1rem;
   letter-spacing: 0.05rem;
-  top: 159vh;
+  top: 156vh;
   left: 50%;
   transform: translate(-50%);
+  text-decoration: underline;
+  filter: drop-shadow(0.13rem 0.13rem 0.13rem #000);
 }
 
 section .botton .clean-code:hover {
-  text-decoration: underline;
+  color: #fff;
 }
 
 ::-webkit-scrollbar {
