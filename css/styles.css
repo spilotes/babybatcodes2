@@ -358,6 +358,7 @@ section .botton a {
   letter-spacing: 0.05rem;
   color: #c9d1d9;
   text-decoration: none;
+  filter: drop-shadow(0.15rem 0.15rem 0.15rem #000);
 }
 
 section .botton a:hover {
