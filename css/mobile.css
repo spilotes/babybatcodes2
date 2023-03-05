@@ -14,7 +14,7 @@
     letter-spacing: 0.3rem;
   }
 
-  header .baby_bat_codes1 {
+  header .ig a {
     top: 32vh;
   }
 
@@ -256,10 +256,10 @@
     text-decoration: underline;
   }
 
-  section .botton .clean-code {
+  section .botton a {
     position: absolute;
     font-family: "Roboto", sans-serif;
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 300;
     letter-spacing: 0.05rem;
     white-space: nowrap;

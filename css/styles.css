@@ -38,7 +38,7 @@ header h1 {
   font-weight: 300;
 }
 
-header .baby_bat_codes1 {
+header .ig a {
   position: absolute;
   top: 38vh;
   left: 50%;
@@ -48,8 +48,27 @@ header .baby_bat_codes1 {
   font-family: Roboto;
 }
 
-header .baby_bat_codes1:hover {
-  text-decoration: underline;
+header .ig a:hover {
+  color: #fff;
+}
+
+header .ig a::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  border-radius: 4px;
+  background-color: #fff;
+  bottom: 0;
+  left: 0;
+  transform-origin: right;
+  transform: scaleX(0);
+  transition: transform 0.3s ease-in-out;
+}
+
+header .ig a:hover::before {
+  transform-origin: left;
+  transform: scaleX(1);
 }
 
 /* body */
@@ -329,29 +348,13 @@ section .links-container aside span:hover {
   text-decoration: underline;
 }
 
-section .botton .clean-code {
-  position: absolute;
-  font-family: "Roboto", sans-serif;
-  font-size: 1.1rem;
-  letter-spacing: 0.05rem;
-  top: 156vh;
-  left: 50%;
-  transform: translate(-50%);
-  text-decoration: underline;
-  filter: drop-shadow(0.13rem 0.13rem 0.13rem #000);
-}
-
-section .botton .clean-code:hover {
-  color: #fff;
-}
-
 section .botton a {
   position: absolute;
   top: 156vh;
   left: 50%;
   transform: translate(-50%);
   font-family: "Roboto", sans-serif;
-  font-size: 1.1rem;
+  font-size: 1rem;
   letter-spacing: 0.05rem;
   color: #c9d1d9;
   text-decoration: none;
