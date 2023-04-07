@@ -3,6 +3,15 @@
     height: 42vh;
   }
 
+  .dropbtn {
+    margin: 1.5vh 0vh 0 1vh;
+  }
+
+  .dropdown-content {
+    margin-left: 1vh;
+    top: 4.9vh;
+  }
+
   header .logo1 {
     top: 6vh;
   }
