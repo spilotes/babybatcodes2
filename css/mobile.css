@@ -4,12 +4,12 @@
   }
 
   .dropbtn {
-    margin: 1.5vh 0vh 0 1vh;
+    margin: 0 0vh 0 1vh;
   }
 
   .dropdown-content {
     margin-left: 1vh;
-    top: 4.9vh;
+    top: 3.4vh;
   }
 
   header .logo1 {
