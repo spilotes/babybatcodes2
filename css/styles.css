@@ -31,7 +31,6 @@ header {
 /* Dropdown button on hover & focus */
 .dropbtn:hover,
 .dropbtn:focus {
-  background-color: ;
   background-color: #0066cc; /* For browsers that do not support gradients */
   background-image: linear-gradient(to right, #0066cc, #3498db);
 }
