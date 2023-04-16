@@ -23,7 +23,7 @@ header {
   border: none;
   cursor: pointer;
   border-radius: 0.1rem;
-  margin: 2.5vh 0vh 0 2vh;
+  margin: 1vh 0vh 0 2vh;
   position: absolute;
   transition: all 0.2s ease-in-out;
 }
@@ -45,7 +45,7 @@ header {
 .dropdown-content {
   display: none;
   position: absolute;
-  top: 6.8vh;
+  top: 5.3vh;
   min-width: 8rem;
   margin-left: 2vh;
   border-radius: 0.1rem;
