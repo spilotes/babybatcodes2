@@ -185,8 +185,7 @@ body {
 
 #generate-quote-button:hover {
   border: none;
-  background-color: #0066cc; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, #0066cc, #3498db);
+  background-image: linear-gradient(to right, #6b727c, #c9d1d9);
   color: #121212;
   font-weight: 500;
   filter: drop-shadow(0.2rem 0.2rem 0.2rem #000);
@@ -207,7 +206,7 @@ body {
 .por-hora {
   animation-name: animacao;
   animation-duration: 4s;
-  animation-delay: 6s; /* Define um atraso de 2 segundos */
+  animation-delay: 14s; /* Define um atraso de 2 segundos */
   opacity: 0; /* Define a opacidade inicial como 0 */
   animation-fill-mode: forwards;
 }
@@ -241,9 +240,9 @@ audio {
 
 .description {
   position: absolute;
-  font-weight: 100;
+  font-weight: 300;
   bottom: 3vh;
-  left: 5.3vw;
+  left: 7vw;
   font-size: 0.95rem;
 }
 

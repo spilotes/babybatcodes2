@@ -8,7 +8,13 @@
     top: 72vh;
   }
 
+  .por-hora {
+    position: absolute;
+    top: 78vh;
+  }
+
   .description {
-    left: 5.8vw;
+    left: 6.5vw;
+    font-weight: 300;
   }
 }
