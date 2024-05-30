@@ -214,7 +214,9 @@ body {
 audio {
   position: absolute;
   bottom: 6.5vh;
-  left: 1vw;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%);
   width: 17rem;
   height: 2rem;
 }
