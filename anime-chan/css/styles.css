@@ -244,7 +244,9 @@ audio {
   position: absolute;
   font-weight: 300;
   bottom: 3vh;
-  left: 7vw;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%);
   font-size: 0.95rem;
 }
 
